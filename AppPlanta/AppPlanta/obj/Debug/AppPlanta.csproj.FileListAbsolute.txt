@@ -1,0 +1,6 @@
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppPlanta\AppPlanta\bin\Debug\AppPlanta.exe.config
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppPlanta\AppPlanta\bin\Debug\AppPlanta.exe
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppPlanta\AppPlanta\bin\Debug\AppPlanta.pdb
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppPlanta\AppPlanta\obj\Debug\AppPlanta.csprojResolveAssemblyReference.cache
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppPlanta\AppPlanta\obj\Debug\AppPlanta.exe
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppPlanta\AppPlanta\obj\Debug\AppPlanta.pdb

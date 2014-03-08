@@ -1,0 +1,6 @@
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas10\AppNotas10\bin\Debug\AppNotas10.exe.config
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas10\AppNotas10\bin\Debug\AppNotas10.exe
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas10\AppNotas10\bin\Debug\AppNotas10.pdb
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas10\AppNotas10\obj\Debug\AppNotas10.csprojResolveAssemblyReference.cache
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas10\AppNotas10\obj\Debug\AppNotas10.exe
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas10\AppNotas10\obj\Debug\AppNotas10.pdb

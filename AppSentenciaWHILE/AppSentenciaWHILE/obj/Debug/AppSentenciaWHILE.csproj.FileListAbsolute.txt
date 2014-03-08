@@ -1,0 +1,6 @@
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppSentenciaWHILE\AppSentenciaWHILE\bin\Debug\AppSentenciaWHILE.exe.config
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppSentenciaWHILE\AppSentenciaWHILE\bin\Debug\AppSentenciaWHILE.exe
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppSentenciaWHILE\AppSentenciaWHILE\bin\Debug\AppSentenciaWHILE.pdb
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppSentenciaWHILE\AppSentenciaWHILE\obj\Debug\AppSentenciaWHILE.csprojResolveAssemblyReference.cache
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppSentenciaWHILE\AppSentenciaWHILE\obj\Debug\AppSentenciaWHILE.exe
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppSentenciaWHILE\AppSentenciaWHILE\obj\Debug\AppSentenciaWHILE.pdb

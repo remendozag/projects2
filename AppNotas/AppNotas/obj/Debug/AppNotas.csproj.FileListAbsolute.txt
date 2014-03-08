@@ -1,0 +1,5 @@
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas\AppNotas\bin\Debug\AppNotas.exe.config
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas\AppNotas\bin\Debug\AppNotas.exe
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas\AppNotas\bin\Debug\AppNotas.pdb
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas\AppNotas\obj\Debug\AppNotas.exe
+c:\users\lab1cpc05\documents\visual studio 2012\Projects\AppNotas\AppNotas\obj\Debug\AppNotas.pdb
